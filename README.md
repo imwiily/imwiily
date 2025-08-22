@@ -48,24 +48,28 @@
 </div>
 
 ---
-
-<!-- CURIOSIDADES -->
-<h2 align="center">✨ Um pouco sobre mim</h2>
-
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding GIF"/>
-</div>
 
-<br>
+E por fim, você seguiu.
+Encontrou outro amor.
+Encontrou outra alma pra te dizer: Eu te amo
+Pra te dizer o quanto és linda e especial.
+E por fim, entrei em seu esquecimento.
+Virei uma página virada, uma memória esquecida.
+E cá me encontro eu:
+Corrompido.
+Abalado.
+Destruído.
+Quebrado.
+Fragmentado.
+Me tornei novamente dor.
+Meus fantasmas acordaram.
+Começaram a fazer o que fazem de melhor.
+Mas é questão de tempo até meu vazio silenciá-los.
+Só espero que por fim, ele silêncie para sempre.
+Assim como você me esqueceu para sempre.
 
-<div align="center">
-  
-📖 **Sempre buscando aprender coisas novas**  
-🎯 **Apaixonado por resolver problemas**  
-🌍 **Acredito no poder da tecnologia para transformar o mundo**  
-🎮 **Quando não estou codando, estou jogando ou lendo**  
-☕ **Movido a café e curiosidade**  
-
+written by me
 </div>
 
 ---
@@ -79,36 +83,6 @@
 
 <div align="center">
   <img src="https://github.com/imwiily/imwiily/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
-
-<!-- CITAÇÃO INSPIRADORA -->
-<h2 align="center">💭 Pensamento do Dia</h2>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
----
-
-<!-- CONTATO -->
-<h2 align="center">🤝 Vamos nos conectar!</h2>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" />
-</div>
-
-<div align="center">
-  <a href="mailto:seu.email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://linkedin.com/in/seu-perfil">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/seu-usuario">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
 </div>
 
 ---
