@@ -24,12 +24,12 @@
 <h2 align="center">📊 Estatísticas GitHub</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[SEU_USERNAME]&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USERNAME]&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=imwiily&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imwiily&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[SEU_USERNAME]&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imwiily&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -74,11 +74,11 @@
 <h2 align="center">📈 Atividade GitHub</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[SEU_USERNAME]&theme=tokyo-night&hide_border=true&custom_title=Gráfico%20de%20Contribuições" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imwiily&theme=tokyo-night&hide_border=true&custom_title=Gráfico%20de%20Contribuições" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://github.com/[SEU_USERNAME]/[SEU_USERNAME]/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github.com/imwiily/imwiily/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
