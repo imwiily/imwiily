@@ -50,26 +50,26 @@
 ---
 <div align="center">
 
-E por fim, você seguiu.
-Encontrou outro amor.
-Encontrou outra alma pra te dizer: Eu te amo
-Pra te dizer o quanto és linda e especial.
-E por fim, entrei em seu esquecimento.
-Virei uma página virada, uma memória esquecida.
-E cá me encontro eu:
-Corrompido.
-Abalado.
-Destruído.
-Quebrado.
-Fragmentado.
-Me tornei novamente dor.
-Meus fantasmas acordaram.
-Começaram a fazer o que fazem de melhor.
-Mas é questão de tempo até meu vazio silenciá-los.
-Só espero que por fim, ele silêncie para sempre.
-Assim como você me esqueceu para sempre.
-
-written by me
+E por fim, você seguiu.<br>
+Encontrou outro amor.<br>
+Encontrou outra alma pra te dizer: Eu te amo<br>
+Pra te dizer o quanto és linda e especial.<br>
+E por fim, entrei em seu esquecimento.<br>
+Virei uma página virada, uma memória esquecida.<br>
+E cá me encontro eu:<br>
+Corrompido.<br>
+Abalado.<br>
+Destruído.<br>
+Quebrado.<br>
+Fragmentado.<br>
+Me tornei novamente dor.<br>
+Meus fantasmas acordaram.<br>
+Começaram a fazer o que fazem de melhor.<br>
+Mas é questão de tempo até meu vazio silenciá-los.<br>
+Só espero que por fim, ele silêncie para sempre.<br>
+Assim como você me esqueceu para sempre.<br>
+<br>
+written by me<br>
 </div>
 
 ---
