@@ -48,7 +48,7 @@
 </div>
 
 ---
-<div align="center">
+<div align="left">
 
 E por fim, você seguiu.<br>
 Encontrou outro amor.<br>
